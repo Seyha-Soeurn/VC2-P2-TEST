@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h2>Sreyleak is crazy</h2>
   </div>
 </template>
 
